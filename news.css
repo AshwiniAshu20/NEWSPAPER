@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    font-weight: bold;
+}
+.pen{
+    border: 3px solid black;
+}
+.note{
+    border: 10px solid black;
+}
+.flower{
+    column-count: 3;
+}
